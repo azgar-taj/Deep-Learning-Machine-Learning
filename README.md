@@ -1,2 +1,4 @@
 # Deep-Learning-Machine-Learning
-Projects on Machine Learning/Deep Learning Using Scikit-Learn/Keras
+Using MNIST dataset to predict digits
+FrameWork Used: Keras
+Model: Simple Neural Network
